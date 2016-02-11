@@ -1,13 +1,13 @@
-png images for assets folder
+Download these png images and compile in a folder named 'assets'
 
-Office ('office.jpg')
+Office (Name: 'office.jpg')
 http://serenaparr.com/officepong/assets/office.jpg
 
-Wall ('wall.png')
+Wall (Name: 'wall.png')
 http://serenaparr.com/officepong/assets/wall.png
 
-Pen ('pen.png')
+Pen (Name: 'pen.png')
 http://serenaparr.com/officepong/assets/paddle.png
 
-Ball ('ball.png')
+Ball (Name: 'ball.png')
 http://serenaparr.com/officepong/assets/ball.png
